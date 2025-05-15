@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=ru.template.course
+Exec=/usr/bin/ru.template.course
+Name=Course Debt Tracker
+Name[ru]=Курсовой трекер долгов
+
+[X-Application]
+Permissions=Internet;UserDirs
+OrganizationName=ru.template
+ApplicationName=course
+ExecDBus=/usr/bin/ru.template.course

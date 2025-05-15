@@ -1,0 +1,21 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="/">
+        <!-- Main QML files -->
+        <file>qml/course.qml</file>
+        
+        <!-- Pages -->
+        <file>qml/pages/MainPage.qml</file>
+        <file>qml/pages/AboutPage.qml</file>
+        
+        <!-- Cover -->
+        <file>qml/cover/DefaultCoverPage.qml</file>
+        
+        <!-- Dialogs -->
+        <file>qml/dialogs/AddDebtDialog.qml</file>
+        
+        <!-- Translations -->
+        <file>translations/ru.template.course.ts</file>
+        <file>translations/ru.template.course-ru.ts</file>
+    </qresource>
+</RCC> 
